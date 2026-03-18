@@ -234,4 +234,14 @@ To avoid ongoing AWS charges, delete resources in this order:
 
 <img width="1850" height="910" alt="Image" src="https://github.com/user-attachments/assets/be5d7a43-8fc8-44c6-87ee-e54ebd7de70c" />
 
+
+Target Group
+<img width="1918" height="852" alt="Image" src="https://github.com/user-attachments/assets/a2293214-9698-4181-bbe0-c984fc445cf8" />
+
+Auto Scalling Group
+<img width="1612" height="766" alt="Image" src="https://github.com/user-attachments/assets/f68611f9-0b71-4258-8743-760dbb6dea1f" />
+
+Load Balancer
+<img width="1602" height="750" alt="Image" src="https://github.com/user-attachments/assets/3ff0ee6a-642f-4e7f-9c27-387ea0b048a0" />
+
 Built as part of an AWS hands-on project series. Focused on understanding core HA patterns used in production environments.
