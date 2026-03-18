@@ -232,4 +232,6 @@ To avoid ongoing AWS charges, delete resources in this order:
 
 ## Author
 
+<img width="1850" height="910" alt="Image" src="https://github.com/user-attachments/assets/be5d7a43-8fc8-44c6-87ee-e54ebd7de70c" />
+
 Built as part of an AWS hands-on project series. Focused on understanding core HA patterns used in production environments.
